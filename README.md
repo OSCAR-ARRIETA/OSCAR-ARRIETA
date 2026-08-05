@@ -1,16 +1,128 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Oscar Arrieta Velasco ⚡</h1>
 
-<!--
-**OSCAR-ARRIETA/OSCAR-ARRIETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-velasco-846245411/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-Here are some ideas to get you started:
+  <a href="mailto:oscar.arrierta64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/OSCAR-ARRIETA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💡 Sobre mí
+
+🎓 **Ingeniero en Sistemas Energéticos y Redes Inteligentes** egresado del **Instituto Politécnico Nacional (IPN).**
+
+⚡ Especializado en **automatización industrial**, programación de **PLC**, desarrollo de sistemas **SCADA** y control de procesos industriales.
+
+🔌 Experiencia en **instalaciones eléctricas**, diseño y cableado de **tableros eléctricos**, interpretación de diagramas eléctricos y mantenimiento industrial.
+
+🏭 Participé en la **automatización de plantas de tratamiento de agua**, implementando soluciones mediante PLC, HMI y SCADA para optimizar procesos industriales.
+
+☀️ Experiencia en **energías renovables**, principalmente sistemas **fotovoltaicos**, análisis energético con **PVsyst** y diseño de soluciones para generación distribuida.
+
+🤖 Interesado en la aplicación de **Inteligencia Artificial**, automatización, IoT y análisis de datos para optimizar procesos industriales.
+
+📈 Actualmente fortaleciendo mis conocimientos en **Python**, **Git**, **GitHub** y desarrollo de soluciones para la industria.
+
+📫 **Correo:** **oscar.arrierta64@gmail.com**
+
+🌐 **LinkedIn:** https://www.linkedin.com/in/oscar-velasco-846245411/
+
+---
+
+# 🛠 Tecnologías y Herramientas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux,arduino,matlab,autocad&perline=9"/>
+</p>
+
+## ⚙️ Automatización Industrial
+
+- PLC Delta
+- ISPSoft
+- SCADA
+- HMI
+- Control Industrial
+- Instrumentación
+- Sensores Industriales
+- Variadores de Frecuencia
+- Automatización de Procesos
+
+---
+
+## ⚡ Electricidad Industrial
+
+- Instalaciones eléctricas
+- Diseño de tableros eléctricos
+- Cableado industrial
+- Interpretación de diagramas eléctricos
+- Mantenimiento eléctrico
+- Protecciones eléctricas
+
+---
+
+## ☀️ Energías Renovables
+
+- Sistemas Fotovoltaicos
+- PVsyst
+- Diseño de instalaciones solares
+- Generación distribuida
+- Eficiencia energética
+- Monitoreo de sistemas fotovoltaicos
+
+---
+
+## 💻 Software
+
+- MATLAB
+- Simulink
+- AutoCAD
+- PVsyst
+- Autodesk Inventor
+- SQL Server
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+- ISPSoft
+
+---
+
+# 🚀 Actualmente
+
+- 🌱 Aprendiendo Inteligencia Artificial aplicada a la Automatización Industrial.
+- ⚙️ Integrando PLC, SCADA e IA para desarrollar soluciones inteligentes.
+- 🤖 Fortaleciendo mis conocimientos en Python y desarrollo de software.
+- ☀️ Ampliando mis habilidades en energías renovables y sistemas fotovoltaicos.
+- 📚 Construyendo un portafolio profesional en GitHub.
+
+---
+
+# 🎯 Áreas de Especialización
+
+- ⚙️ Automatización Industrial
+- 🖥️ Sistemas SCADA
+- 🔌 PLC y HMI
+- ⚡ Electricidad Industrial
+- 📈 Control de Procesos
+- ☀️ Energías Renovables
+- 🔋 Sistemas Fotovoltaicos
+- 🤖 Inteligencia Artificial
+- 🌐 Internet de las Cosas (IoT)
+- 📊 Análisis de Datos
+- 💻 Desarrollo de Software
+- 🚀 Innovación Tecnológica
+
+---
+
+<h3 align="center">
+⚡ "Transformando la industria mediante la automatización, la energía y la innovación tecnológica." ⚡
+</h3>
