@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+
 <h1 align="center">Hola 👋 Soy Oscar Arrieta Velasco ⚡</h1>
 
 <p align="center">
