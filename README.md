@@ -51,8 +51,9 @@
 
 ## 🚀 Proyectos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OSCAR-ARRIETA&repo=DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA&theme=tokyonight)](https://github.com/OSCAR-ARRIETA/DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA)
-
+| Proyecto | Descripción |
+|----------|-------------|
+| 🚁 *Dron para la Inspección Inteligente de Sistemas Fotovoltaicos* | Detección de Hot Spots en paneles solares mediante visión térmica, GPS y sensores ambientales. [Ver proyecto](https://github.com/OSCAR-ARRIETA/DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA) |
 
 ## ⚙️ Automatización Industrial
 
