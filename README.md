@@ -49,6 +49,11 @@
 <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux,arduino,matlab,autocad&perline=9"/>
 </p>
 
+## 🚀 Proyectos Destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OSCAR-ARRIETA&repo=DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA&theme=tokyonight)](https://github.com/OSCAR-ARRIETA/DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA)
+
+
 ## ⚙️ Automatización Industrial
 
 - PLC Delta
