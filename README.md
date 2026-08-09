@@ -55,6 +55,11 @@
 |----------|-------------|
 | 🚁 *Dron para la Inspección Inteligente de Sistemas Fotovoltaicos* | Detección de Hot Spots en paneles solares mediante visión térmica, GPS y sensores ambientales. [Ver proyecto](https://github.com/OSCAR-ARRIETA/DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA) |
 
+| Proyecto                                                         | Descripción                                                                                                                                                                      | Proyecto | Descripción |
+|----------|-------------| 
+| ⚙️ *Automatización de Planta de Tratamiento de Aguas Residuales* | Sistema de automatización y control mediante PLC Delta, HMI, control de bombas y medidores de flujo. [Ver proyecto](https://github.com/OSCAR-ARRIETA/AUTOMATIZACION-PLC-QUERETARO) |
+
+
 ## ⚙️ Automatización Industrial
 
 - PLC Delta
