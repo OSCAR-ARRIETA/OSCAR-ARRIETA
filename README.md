@@ -60,6 +60,10 @@
 |----------|-------------|
 | ⚙️ *Automatización de Planta de Tratamiento de Aguas Residuales* | Sistema de automatización y control mediante PLC Delta, HMI, control de bombas y medidores de flujo. [Ver proyecto](https://github.com/OSCAR-ARRIETA/AUTOMATIZACION-PLC-QUERETARO) |
 
+| Proyecto | Descripción |
+|----------|-------------|
+| ⚙️ *Automatización de Planta de Tratamiento de Aguas Residuales* | Sistema de automatización y control mediante PLC Delta, ISPSoft, DOPSoft, Ladder Logic, HMI, control de bombas y monitoreo de medidores de flujo. [Ver proyecto](https://github.com/OSCAR-ARRIETA/AUTOMATIZACION-PLC-GUANAJUATO) |
+
 
 ## ⚙️ Automatización Industrial
 
