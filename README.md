@@ -65,6 +65,9 @@ Automatización Industrial • PLC • HMI • SCADA • Energías Renovables �
 |----------|-------------|
 | ⚙️ *Automatización de Planta de Tratamiento de Aguas Residuales* | Sistema de automatización y control mediante PLC Delta, ISPSoft, DOPSoft, Ladder Logic, HMI, control de bombas y monitoreo de medidores de flujo (GUANAJUATO). [Ver proyecto](https://github.com/OSCAR-ARRIETA/AUTOMATIZACION-PLC-GUANAJUATO) |
 
+| Proyecto | Descripción |
+|----------|-------------|
+| ⚡ *Experiencia Profesional como Electricista Industrial* | Instalación y mantenimiento de sistemas eléctricos industriales, tubería conduit, cableado de fuerza y control, montaje de tableros eléctricos, conexión de motores, bombas, luminarias y equipos industriales. [Ver experiencia](https://github.com/OSCAR-ARRIETA/ELECTRICISTA-INDUSTRIAL) |
 
 ## ⚙️ Automatización Industrial
 
