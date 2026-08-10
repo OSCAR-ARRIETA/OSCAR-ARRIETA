@@ -4,6 +4,9 @@
 
 
 <h1 align="center">Hola 👋 Soy Oscar Arrieta Velasco ⚡</h1>
+⚡ Ingeniería en Sistemas Energéticos y Redes Inteligentes
+
+Automatización Industrial • PLC • HMI • SCADA • Energías Renovables • IoT • Inteligencia Artificial
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-velasco-846245411/" target="_blank">
@@ -34,8 +37,6 @@
 ☀️ Experiencia en **energías renovables**, principalmente sistemas **fotovoltaicos**, análisis energético con **PVsyst** y diseño de soluciones para generación distribuida.
 
 🤖 Interesado en la aplicación de **Inteligencia Artificial**, automatización, IoT y análisis de datos para optimizar procesos industriales.
-
-📈 Actualmente fortaleciendo mis conocimientos en **Python**, **Git**, **GitHub** y desarrollo de soluciones para la industria.
 
 📫 **Correo:** **oscar.arrierta64@gmail.com**
 
