@@ -50,7 +50,7 @@ Automatización Industrial • PLC • HMI • SCADA • Energías Renovables �
 <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux,arduino,matlab,autocad&perline=9"/>
 </p>
 
-## 🚀 Proyectos Destacados
+## ⚙️ Proyectos de Ingeniería y Automatización
 
 | Proyecto | Descripción |
 |----------|-------------|
