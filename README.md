@@ -56,6 +56,11 @@ Automatización Industrial • PLC • HMI • SCADA • Energías Renovables �
 |----------|-------------|
 | 🚁 *Dron para la Inspección Inteligente de Sistemas Fotovoltaicos* | Detección de Hot Spots en paneles solares mediante visión térmica, GPS y sensores ambientales. [Ver proyecto](https://github.com/OSCAR-ARRIETA/DRON-INSPECCION-INFRAESTRUCTURA-ELECTRICA) |
 
+| Proyecto | Descripción |
+|----------|-------------|
+| ⚙️ *Sistema fotovoltaico aislado con almacenamiento* | Diseño y simulación de un sistema fotovoltaico aislado con almacenamiento de energía, desarrollado mediante PVsyst.. [Ver proyecto](https://github.com/OSCAR-ARRIETA/DISENO-SISTEMA-FOTOVOLTAICO-PVSYST) |
+
+
                                                                                                                           
 | Proyecto | Descripción |
 |----------|-------------|
