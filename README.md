@@ -224,26 +224,5 @@ Proyecto de diseño y análisis de un sistema fotovoltaico, considerando el cons
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
 </p>
 
----
 
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OSCAR-ARRIETA&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSCAR-ARRIETA&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados">
-</p>
-
----
-
-# 📫 Contacto
-
-<p align="center">
-  <a href="https://github.com/OSCAR-ARRIETA">
-    <img src="https://img.shields.io/badge/GitHub-Visitar_perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  Gracias por visitar mi portafolio. ⚡
-</p>
 
